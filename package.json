@@ -1,0 +1,23 @@
+{
+  "name": "nanoleafapi",
+  "version": "1.0.0",
+  "description": "Nanoleaf open API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./test/client.js",
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bexonpak/nanoleafapi.git"
+  },
+  "keywords": [
+    "nanoleaf"
+  ],
+  "author": "Bexon Bai",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/bexonpak/nanoleafapi/issues"
+  },
+  "homepage": "https://github.com/bexonpak/nanoleafapi#readme"
+}
